@@ -1,6 +1,6 @@
 {
   "colors": {
-    "primary": "#000000",
+    "primary": "#000000"
   },
   "logo": {
     "style": {
@@ -10,7 +10,7 @@
   "auth.layout": {
     "style": {
       "backgroundImage": "url('https://www.toptal.com/designers/subtlepatterns/patterns/spiration-dark.png')",
-      "backgroundRepeat": "repeat",
+      "backgroundRepeat": "repeat"
     }
   },
   "auth.gradient": {
