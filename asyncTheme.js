@@ -14,7 +14,8 @@
   "auth.layout": {
     "style": {
       "backgroundImage": "url('http://www.toptal.com/designers/subtlepatterns/patterns/geometry2.png')",
-      "backgroundRepeat": "repeat"
+      "backgroundRepeat": "repeat",
+      "backgroundSize": "auto"
     }
   },
   "auth.gradient": {
