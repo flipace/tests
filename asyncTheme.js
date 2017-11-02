@@ -4,12 +4,12 @@
   },
   "logo": {
     "style": {
-      "backgroundImage": "url('https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png')"
+      "backgroundImage": "url('http://imageog.flaticon.com/icons/png/512/3/3641.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF')"
     }
   },
   "auth.layout": {
     "style": {
-      "backgroundImage": "url('https://www.toptal.com/designers/subtlepatterns/patterns/spiration-dark.png')",
+      "backgroundImage": "url('http://www.toptal.com/designers/subtlepatterns/patterns/geometry2.png')",
       "backgroundRepeat": "repeat"
     }
   },
