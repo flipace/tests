@@ -1,6 +1,6 @@
 {
   "colors": {
-    "primary": "#000000"
+    "primary": "#444444"
   },
   "logo": {
     "style": {
@@ -15,7 +15,7 @@
   },
   "auth.gradient": {
     "style": {
-      "background": "linear-gradient(180deg, rgba(255, 255, 255, 0.8) 0%, rgba(255,255,255,0) 100%)"
+      "background": "linear-gradient(180deg, rgba(255, 255, 255, 0.5) 0%, rgba(255,255,255,0) 100%)"
     }
   }
 }
